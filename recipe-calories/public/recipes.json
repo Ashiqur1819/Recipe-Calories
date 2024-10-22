@@ -1,0 +1,92 @@
+[
+  {
+    "recipe_id": "001",
+    "recipe_name": "Chicken Stir Fry",
+    "recipe_image": "https://example.com/images/chicken_stir_fry.jpg",
+    "short_description": "A quick and easy chicken stir fry with vegetables.",
+    "ingredients": [
+      "500 g chicken breast",
+      "200 g broccoli",
+      "100 g bell peppers",
+      "2 tbsp soy sauce",
+      "1 tbsp olive oil"
+    ],
+    "preparing_time": "25 min",
+    "calories": "350 calories"
+  },
+  {
+    "recipe_id": "002",
+    "recipe_name": "Pasta Carbonara",
+    "recipe_image": "https://example.com/images/pasta_carbonara.jpg",
+    "short_description": "Classic Italian pasta carbonara with creamy sauce.",
+    "ingredients": [
+      "200 g spaghetti",
+      "100 g pancetta",
+      "2 large eggs",
+      "50 g parmesan cheese",
+      "1 clove garlic"
+    ],
+    "preparing_time": "20 min",
+    "calories": "400 calories"
+  },
+  {
+    "recipe_id": "003",
+    "recipe_name": "Vegetable Curry",
+    "recipe_image": "https://example.com/images/vegetable_curry.jpg",
+    "short_description": "A flavorful vegetable curry with coconut milk.",
+    "ingredients": [
+      "300 g cauliflower",
+      "200 g carrots",
+      "150 g potatoes",
+      "400 ml coconut milk",
+      "2 tbsp curry powder"
+    ],
+    "preparing_time": "40 min",
+    "calories": "320 calories"
+  },
+  {
+    "recipe_id": "004",
+    "recipe_name": "Grilled Salmon",
+    "recipe_image": "https://example.com/images/grilled_salmon.jpg",
+    "short_description": "Simple and healthy grilled salmon fillets.",
+    "ingredients": [
+      "2 salmon fillets",
+      "1 tbsp olive oil",
+      "1 tsp lemon juice",
+      "1 tsp garlic powder",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "15 min",
+    "calories": "280 calories"
+  },
+  {
+    "recipe_id": "005",
+    "recipe_name": "Beef Tacos",
+    "recipe_image": "https://example.com/images/beef_tacos.jpg",
+    "short_description": "Delicious beef tacos with fresh toppings.",
+    "ingredients": [
+      "300 g ground beef",
+      "8 taco shells",
+      "100 g lettuce",
+      "50 g cheddar cheese",
+      "Salsa sauce"
+    ],
+    "preparing_time": "30 min",
+    "calories": "450 calories"
+  },
+  {
+    "recipe_id": "006",
+    "recipe_name": "Avocado Toast",
+    "recipe_image": "https://example.com/images/avocado_toast.jpg",
+    "short_description": "A healthy and quick avocado toast.",
+    "ingredients": [
+      "1 ripe avocado",
+      "2 slices of whole-grain bread",
+      "1 tbsp olive oil",
+      "Salt and pepper to taste",
+      "Chili flakes (optional)"
+    ],
+    "preparing_time": "10 min",
+    "calories": "220 calories"
+  }
+]
